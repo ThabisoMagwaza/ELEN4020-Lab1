@@ -148,5 +148,8 @@ int main(){
 	free(array2);
 	free(array3);
 	free(array4);
+	
+	
+	
 	return(0);
 }
