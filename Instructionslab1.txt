@@ -1,0 +1,11 @@
+Find the github repository - ELEN4020-Lab1 specifically  ThabisoMagwaza/ELEN4020-lab1 
+For group of Thabiso Magwaza 836403 and Massi Mapani 783767
+
+In it there is the .zip file containing the Report ELEN4020_Lab1 Report.pdf, 
+Please note the first page of the pdf of the report is blank due to formatting errors 
+which were not fixed by the group.
+and the necessary documents to compile the report with LaTex in main.tex.
+
+The executable a.exe of the program
+
+The code compiled used to solve the Lab named lab1.c
